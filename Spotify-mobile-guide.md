@@ -143,14 +143,14 @@ Spotify Premium users can download songs, albums, or playlists to listen offline
 If you experience issues while using the Spotify mobile app, try the following solutions before reaching out to support.
 
  - #### No Sound?
-   Force close and open the app.
+    - Force close and open the app.
 
  - #### Songs not downloading?
-   Ensure you have a Spotify premium.
+    - Ensure you have a Spotify premium.
 
  - #### App crashing?
-   Restart your device.
+    - Restart your device.
 
  - #### Still having issues?
-   Tap **Settings** > **Help** > **Contact Us**.
+    - Tap **Settings** > **Help** > **Contact Us**.
 
