@@ -3,7 +3,7 @@
 ## System Requirements
 ## Installing the App
 ## Creating a Spotify Account
-## Logging In and Navigating the Home Screen
+## Navigating the Home Screen
 ## Searching for Music or Podcasts
 ## Creating and Managing a Playlist
 ## Downloading Songs for Offline Listening
@@ -53,5 +53,17 @@ To start using Spotify, you need to create an account. Follow below steps to cre
 
 > ⚠️ **Note:** If you're using a shared device, avoid saving login details for privacy.
 
+## Navigating the Home Screen
 
+After creating our account, Spotify will prompt you to select your preferred music languages and favourite artists. Once done, you'll land on **home** screen. 
+
+Here's what you'll see:
+
+- **Top bar**: Quick access to Settings and Recently Played.
+- **Search bar**: Tap the magnifying glass icon to find songs, artists, or playlists.
+- **Made for You**: Personalized mixes based on your listening history.
+- **Recently Played**: Your latest albums, artists, and playlists.
+- **Your Library**: A shortcut to your saved songs, liked playlists, and podcasts.
+
+> 📌 **Note:** The content on your Home screen updates dynamically based on your usage and preferences.
 
