@@ -40,3 +40,18 @@ You can install spotify using your device app store:
 4. Tap **Open** to launch the app.
 
 >📌 **Note:** You may be asked to allow permissions for storage or notifications.
+
+## Creating a Spotify Account
+
+To start using Spotify, you need to create an account. Follow below steps to create an account:
+
+1. Open the **Spotify** app.
+2. Tap **Sign Up**.
+3. Enter your **email address**, **create a password**, and provide your **date of birth** and **username**.
+4. Choose your **gender** and agree to the **terms and conditions**.
+5. Tap **Create Account** to finish.
+
+> ⚠️ **Note:** If you're using a shared device, avoid saving login details for privacy.
+
+
+
