@@ -74,7 +74,7 @@ Spotify makes it easy to discover new music, artists, and podcasts. To search:
 
 1. Tap the **Search** icon at the bottom of the screen.
 2. In the search bar, type the name of a song, artist, album, or podcast.
-3. Results will appear grouped by category—such as **Top Result**, **Songs**, **Artists**, and **Podcasts & Shows**.
+3. Results will appear grouped by category such as **Top Result**, **Songs**, **Artists**, and **Podcasts & Shows**.
 4. Tap the result to start playing,
 5. Tap the **three dots** (⋮) next to a track or show to:
    - Add it to a playlist
@@ -83,3 +83,39 @@ Spotify makes it easy to discover new music, artists, and podcasts. To search:
      
 > 💡 **Tip:** Try voice search by tapping the **mic icon** in the search bar (Android only).
 
+## Creating and Managing a Playlist
+
+Spotify lets you build and personalize playlists with your favorite music or podcasts.
+
+### 📌 Creating a Playlist
+
+1. Tap **Your Library** at the bottom of the screen.
+2. Tap the **+ (plus icon)** in the top-right corner.
+3. Select **Playlist**.
+4. Enter a **name** for your playlist.
+5. Tap **Create**.
+6. Tap **Add Songs** to search and add content.
+7. Tap the **+ (plus)** icon next to any song or podcast to include it.
+
+> 💡 **Tip:** You can create multiple playlists for different moods, occasions, or genres.
+
+---
+
+### ⚙️ Managing Your Playlist
+
+After creating a playlist, you can easily edit it:
+
+- **To Rename:**
+  1. Tap the **three dots** (⋮).
+  2. Select **Edit Playlist** > Change name > Tap **Save**.
+
+- **To Reorder Songs:**
+  1. Tap **Edit Playlist**.
+  2. Drag and drop songs to rearrange their order.
+  3. Tap **Save**.
+
+- **To Remove a Song:**
+  1. Tap the **three dots** next to the song.
+  2. Select **Remove from this Playlist**.
+
+> 📌 **Note:** You can also share playlists with friends by tapping the **three dots** menu and choosing the option.
