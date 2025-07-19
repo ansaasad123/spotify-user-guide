@@ -67,3 +67,18 @@ Here's what you'll see:
 
 > 📌 **Note:** The content on your Home screen updates dynamically based on your usage and preferences.
 
+## Searching for Music or Podcasts
+
+Spotify makes it easy to discover new music, artists, and podcasts. To search:
+
+1. Tap the **Search** icon at the bottom of the screen.
+2. In the search bar, type the name of a song, artist, album, or podcast.
+3. Results will appear grouped by category—such as **Top Result**, **Songs**, **Artists**, and **Podcasts & Shows**.
+4. Tap the result to start playing,
+5. Tap the **three dots** (⋮) next to a track or show to:
+   - Add it to a playlist
+   - Download for offline use
+   - Share with others
+     
+> 💡 **Tip:** Try voice search by tapping the **mic icon** in the search bar (Android only).
+
