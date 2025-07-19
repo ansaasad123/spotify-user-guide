@@ -106,16 +106,16 @@ Spotify lets you build and personalize playlists with your favorite music or pod
 After creating a playlist, you can easily edit it:
 
 - **To Rename:**
-  1. Tap the **three dots** (⋮).
-  2. Select **Edit Playlist** > Change name > Tap **Save**.
+1. Tap the **three dots** (⋮).
+2. Select **Edit Playlist** > Change name > Tap **Save**.
 
 - **To Reorder Songs:**
-  1. Tap **Edit Playlist**.
-  2. Drag and drop songs to rearrange their order.
-  3. Tap **Save**.
+1. Tap **Edit Playlist**.
+2. Drag and drop songs to rearrange their order.
+3. Tap **Save**.
 
 - **To Remove a Song:**
-  1. Tap the **three dots** next to the song.
-  2. Select **Remove from this Playlist**.
+1. Tap the **three dots** next to the song.
+2. Select **Remove from this Playlist**.
 
 > 📌 **Note:** You can also share playlists with friends by tapping the **three dots** menu and choosing the option.
