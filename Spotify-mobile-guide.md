@@ -20,11 +20,11 @@ Make sure your mobile device meets the following requirements before installing 
 
 - For Android: Version 6.0 and above
 - For Iphone: Version 13 or above
-- Free Storage: Atleast 250 MB
+- Free Storage: At least 250 MB
 
 ## Installing the App
 
-You can install spotify using your device app store: 
+You can install Spotify using your device app store: 
 
 ### For Android:
 1. Open **Google Play Store**.
@@ -42,7 +42,7 @@ You can install spotify using your device app store:
 
 ## Creating a Spotify Account
 
-To start using Spotify, you need to create an account. Follow below steps to create an account:
+To start using Spotify, you need to create an account. Follow the steps below:
 
 1. Open the **Spotify** app.
 2. Tap **Sign Up**.
@@ -54,7 +54,7 @@ To start using Spotify, you need to create an account. Follow below steps to cre
 
 ## Navigating the Home Screen
 
-After creating our account, Spotify will prompt you to select your preferred music languages and favourite artists. Once done, you'll land on **home** screen. 
+After creating your account, Spotify will prompt you to select your preferred music languages and favourite artists. Once done, you'll land on **home** screen. 
 
 Here's what you'll see:
 
@@ -73,7 +73,7 @@ Spotify makes it easy to discover new music, artists, and podcasts. To search:
 1. Tap the **Search** icon at the bottom of the screen.
 2. In the search bar, type the name of a song, artist, album, or podcast.
 3. Results will appear grouped by category such as **Top Result**, **Songs**, **Artists**, and **Podcasts & Shows**.
-4. Tap the result to start playing,
+4. Tap the result to start playing.
 5. Tap the **three dots** (⋮) next to a track or show to:
    - Add it to a playlist
    - Download for offline use
@@ -103,7 +103,7 @@ After creating a playlist, you can easily edit it:
 
 - **To Rename:**
 1. Tap the **three dots** (⋮).
-2. Select **Edit Playlist** > Change name > Tap **Save**.
+2. Select **Edit Playlist**, change the name, tap **Save**.
 
 - **To Reorder Songs:**
 1. Tap **Edit Playlist**.
@@ -130,7 +130,7 @@ Spotify Premium users can download songs, albums, or playlists to listen offline
 ## Quick Tips
 
 - **Double tap** to like the song.
-- **Swipe left/right** on playlists to browse faster.
+- **Swipe left or right** on playlists to browse faster.
 
 ## Troubleshooting
 
@@ -145,6 +145,6 @@ If you experience issues while using the Spotify mobile app, try the following s
  - #### App crashing?
    Restart your device.
 
- - #### Still having issue?
+ - #### Still having issues?
    Tap **Settings** > ** Help** > **Contact Us**.
 
