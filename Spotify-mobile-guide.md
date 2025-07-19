@@ -4,15 +4,15 @@
 
 | No. | Section                                          | Description                            |
 |-----|--------------------------------------------------|----------------------------------------|
-| 1   | [Introduction](#introduction)                    | Overview and setup tips                |
+| 1   | [Introduction](#introduction)                    | Overview                |
 | 2   | [System Requirements](#system-requirements)      | Minimum device specifications          |
 | 3   | [Installing the App](#installing-the-app)        | Steps to install on Android and iOS    |
 | 4   | [Creating a Spotify Account](#creating-a-spotify-account) | How to sign up for Spotify        |
 | 5   | [Navigating the Home Screen](#navigating-the-home-screen) | Understanding the interface      |
-| 6   | [Searching for Music or Podcasts](#searching-for-music-or-podcasts) | Find songs, albums, and podcasts |
+| 6   | [Searching for Music or Podcasts](#searching-for-music-or-podcasts) | Find songs and albums |
 | 7   | [Creating and Managing a Playlist](#creating-and-managing-a-playlist) | Build and edit playlists         |
 | 8   | [Downloading Songs for Offline Listening](#downloading-songs-for-offline-listening) | Use Spotify offline             |
-| 9   | [Quick Tips](#quick-tips)                        | Time-saving gestures and features      |
+| 9   | [Quick Tips](#quick-tips)                        | Time saving gestures and features      |
 | 10  | [Troubleshooting](#troubleshooting)              | Fix common problems                    |
 
 
