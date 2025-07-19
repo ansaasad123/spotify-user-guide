@@ -10,6 +10,8 @@
 ## Quick Tips
 ## Troubleshooting
 
+---
+
 ## Introduction
 Welcome to the Spotify Mobile App User Guide. This guide helps you get started with the Spotify mobile app on Android and iOS. Whether you're new to Spotify or returning after a break, you'll find clear steps, screenshots, and useful tips.
 >**💡 Tip:** Connect to Wi-Fi while setting up or streaming music for the first time. It helps avoid data charges and speeds up downloads.
@@ -96,8 +98,6 @@ Spotify lets you build and personalize playlists with your favorite music or pod
 7. Tap the **+ (plus)** icon next to any song or podcast to include it.
 
 > 💡 **Tip:** You can create multiple playlists for different moods, occasions, or genres.
-
----
 
 ### ⚙️ Managing Your Playlist
 
