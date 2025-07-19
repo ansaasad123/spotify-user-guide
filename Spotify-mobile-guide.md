@@ -17,7 +17,7 @@ Welcome to the Spotify Mobile App User Guide. This guide helps you get started w
 
 ## System Requirements
 
-Make sure your mobile device meets the following requirements before installing spotify:
+Make sure your mobile device meets the following requirements before installing Spotify:
 
 - For Android: Version 6.0 and above
 - For Iphone: Version 13 or above
