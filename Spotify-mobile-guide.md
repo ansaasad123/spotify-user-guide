@@ -24,9 +24,9 @@ Welcome to the Spotify Mobile App User Guide. This guide helps you get started w
 
 Make sure your mobile device meets the following requirements before installing Spotify:
 
-- For Android: Version 6.0 and above
-- For Iphone: Version 13 or above
-- Free Storage: At least 250 MB
+- For Android: Version 6.0 and above.
+- For Iphone: Version 13 or above.
+- Free Storage: At least 250 MB.
 
 ## Installing the App
 
