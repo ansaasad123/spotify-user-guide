@@ -23,7 +23,7 @@ Make sure your mobile device meets the following requirements before installing 
 - For Iphone   : Version 13 or above
 - Free Storage : Atleast 250 MB
 
-##Installing the App
+## Installing the App
 
 You can install spotify using your device app store: 
 
