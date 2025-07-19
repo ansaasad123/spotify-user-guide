@@ -119,3 +119,15 @@ After creating a playlist, you can easily edit it:
 2. Select **Remove from this Playlist**.
 
 > 📌 **Note:** You can also share playlists with friends by tapping the **three dots** menu and choosing the option.
+
+## Downloading Songs for Offline Listening
+
+Spotify Premium users can download songs, albums, or playlists to listen offline.
+
+1. Tap **Your Library** at the bottom.
+2. Tap the **three dots** (⋮).
+3. Tap **Download**.
+4. You can now enjoy your music offline, even without an internet connection.
+
+> 📌 **Note:** Offline listening is only available to Spotify Premium users.
+
