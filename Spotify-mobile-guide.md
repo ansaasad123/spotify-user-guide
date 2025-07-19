@@ -7,7 +7,7 @@
 ## Searching for Music or Podcasts
 ## Creating and Managing a Playlist
 ## Downloading Songs for Offline Listening
-## Additional Tips and Shortcuts
+## Quick Tips
 ## Troubleshooting
 ## Support and Resources
 
@@ -130,4 +130,9 @@ Spotify Premium users can download songs, albums, or playlists to listen offline
 4. You can now enjoy your music offline, even without an internet connection.
 
 > 📌 **Note:** Offline listening is only available to Spotify Premium users.
+
+## Quick Tips
+
+- **Double tap** to like the song.
+- **Swipe left/right** on playlists to browse faster.
 
