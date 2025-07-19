@@ -146,5 +146,5 @@ If you experience issues while using the Spotify mobile app, try the following s
    Restart your device.
 
  - #### Still having issues?
-   Tap **Settings** > ** Help** > **Contact Us**.
+   Tap **Settings** > **Help** > **Contact Us**.
 
