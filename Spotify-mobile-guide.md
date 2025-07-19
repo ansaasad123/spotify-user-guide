@@ -91,7 +91,7 @@ Spotify makes it easy to discover new music, artists, and podcasts. To search:
 
 Spotify lets you build and personalize playlists with your favorite music or podcasts.
 
-### 📌 Creating a Playlist
+### Creating a Playlist
 
 1. Tap **Your Library** at the bottom of the screen.
 2. Tap the **+ (plus icon)** in the top-right corner.
@@ -103,7 +103,7 @@ Spotify lets you build and personalize playlists with your favorite music or pod
 
 > 💡 **Tip:** You can create multiple playlists for different moods, occasions, or genres.
 
-### ⚙️ Managing Your Playlist
+### Managing Your Playlist
 
 After creating a playlist, you can easily edit it:
 
