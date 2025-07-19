@@ -15,3 +15,7 @@
 Welcome to the Spotify Mobile App User Guide. This guide helps you get started with the Spotify mobile app on Android and iOS. Whether you're new to Spotify or returning after a break, you'll find clear steps, screenshots, and useful tips.
 >**💡 Tip:** Connect to Wi-Fi while setting up or streaming music for the first time. It helps avoid data charges and speeds up downloads.
 
+## System Requirements
+For Android  : Version 6.0 and above
+For Iphone   : Version 13 or above
+Free Storage : Atleast 250 MB
