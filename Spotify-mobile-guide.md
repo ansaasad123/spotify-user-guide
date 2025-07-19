@@ -145,6 +145,20 @@ If you experience issues while using the Spotify mobile app, try the following s
  - #### App crashing?
    Restart your device.
 
+
+   | Section | Description |
+|--------|-------------|
+| [Introduction](#introduction) | Overview and setup tips |
+| [System Requirements](#system-requirements) | Minimum device requirements |
+| [Installing the App](#installing-the-app) | Steps to install on Android and iOS |
+| [Creating a Spotify Account](#creating-a-spotify-account) | Account setup process |
+| [Navigating the Home Screen](#navigating-the-home-screen) | Guide to the home screen layout |
+| [Searching for Music or Podcasts](#searching-for-music-or-podcasts) | How to search and discover content |
+| [Creating and Managing a Playlist](#creating-and-managing-a-playlist) | Build and organize playlists |
+| [Downloading Songs for Offline Listening](#downloading-songs-for-offline-listening) | How to listen without internet |
+| [Quick Tips](#quick-tips) | Time-saving gestures and shortcuts |
+| [Troubleshooting](#troubleshooting) | Fix common issues |
+
  - #### Still having issues?
    Tap **Settings** > **Help** > **Contact Us**.
 
