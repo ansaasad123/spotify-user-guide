@@ -9,8 +9,6 @@
 ## Downloading Songs for Offline Listening
 ## Quick Tips
 ## Troubleshooting
-## Support and Resources
-
 
 ## Introduction
 Welcome to the Spotify Mobile App User Guide. This guide helps you get started with the Spotify mobile app on Android and iOS. Whether you're new to Spotify or returning after a break, you'll find clear steps, screenshots, and useful tips.
@@ -135,4 +133,20 @@ Spotify Premium users can download songs, albums, or playlists to listen offline
 
 - **Double tap** to like the song.
 - **Swipe left/right** on playlists to browse faster.
+
+## Troubleshooting
+
+If you experience issues while using the Spotify mobile app, try the following solutions before reaching out to support.
+
+### No Sound
+- Force close and open the app.
+
+### Songs not downloading
+-  Ensure you have a Spotify premium.
+
+### App crashing
+- Restart your device.
+
+### Still having issue?
+- Tap **Settings** > ** Help** > **Contact Us**.
 
