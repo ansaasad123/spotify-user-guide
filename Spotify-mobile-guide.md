@@ -34,9 +34,9 @@ You can install spotify using your device app store:
 4. Tap **Open** to launch the app.
 
 ### For Iphone:
-1. Open **App Store**
-2. Search for **Spotify**
-3. Tap **Install**
+1. Open **App Store**.
+2. Search for **Spotify**.
+3. Tap **Install**.
 4. Tap **Open** to launch the app.
 
 >📌 **Note:** You may be asked to allow permissions for storage or notifications.
