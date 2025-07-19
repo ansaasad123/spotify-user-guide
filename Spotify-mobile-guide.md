@@ -1,14 +1,20 @@
 # Spotify Mobile App User Guide
-## Introduction
-## System Requirements
-## Installing the App
-## Creating a Spotify Account
-## Navigating the Home Screen
-## Searching for Music or Podcasts
-## Creating and Managing a Playlist
-## Downloading Songs for Offline Listening
-## Quick Tips
-## Troubleshooting
+
+## 📋 Table of Contents
+
+| No. | Section                                          | Description                            |
+|-----|--------------------------------------------------|----------------------------------------|
+| 1   | [Introduction](#introduction)                    | Overview and setup tips                |
+| 2   | [System Requirements](#system-requirements)      | Minimum device specifications          |
+| 3   | [Installing the App](#installing-the-app)        | Steps to install on Android and iOS    |
+| 4   | [Creating a Spotify Account](#creating-a-spotify-account) | How to sign up for Spotify        |
+| 5   | [Navigating the Home Screen](#navigating-the-home-screen) | Understanding the interface      |
+| 6   | [Searching for Music or Podcasts](#searching-for-music-or-podcasts) | Find songs, albums, and podcasts |
+| 7   | [Creating and Managing a Playlist](#creating-and-managing-a-playlist) | Build and edit playlists         |
+| 8   | [Downloading Songs for Offline Listening](#downloading-songs-for-offline-listening) | Use Spotify offline             |
+| 9   | [Quick Tips](#quick-tips)                        | Time-saving gestures and features      |
+| 10  | [Troubleshooting](#troubleshooting)              | Fix common problems                    |
+
 
 ## Introduction
 Welcome to the Spotify Mobile App User Guide. This guide helps you get started with the Spotify mobile app on Android and iOS. Whether you're new to Spotify or returning after a break, you'll find clear steps, screenshots, and useful tips.
