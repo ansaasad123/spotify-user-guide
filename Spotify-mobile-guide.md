@@ -16,6 +16,9 @@ Welcome to the Spotify Mobile App User Guide. This guide helps you get started w
 >**💡 Tip:** Connect to Wi-Fi while setting up or streaming music for the first time. It helps avoid data charges and speeds up downloads.
 
 ## System Requirements
->For Android  : Version 6.0 and above
->For Iphone   : Version 13 or above
->Free Storage : Atleast 250 MB
+
+Make sure your mobile device meets the below requirements before installing spotify:
+
+- For Android  : Version 6.0 and above
+- For Iphone   : Version 13 or above
+- Free Storage : Atleast 250 MB
