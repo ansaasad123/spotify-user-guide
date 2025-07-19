@@ -56,7 +56,7 @@ To start using Spotify, you need to create an account. Follow the steps below:
 4. Choose your **gender** and agree to the **terms and conditions**.
 5. Tap **Create Account** to finish.
 
-> ⚠️ **Note:** If you're using a shared device, avoid saving login details for privacy.
+> ⚠️ Caution: Avoid saving login details if you're using a shared device. This helps protect your privacy.
 
 ## Navigating the Home Screen
 
